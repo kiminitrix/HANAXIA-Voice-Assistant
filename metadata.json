@@ -1,5 +1,5 @@
 {
-  "name": "HANAXIA Voice Assistant",
+  "name": "HANAXIA Voice AI",
   "description": "A latency-optimized, voice-only AI assistant designed for fast, natural spoken conversation using the Gemini Live API.",
   "requestFramePermissions": [
     "microphone"
